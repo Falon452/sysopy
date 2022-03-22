@@ -1,0 +1,230 @@
+
+create_table 3
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files small 2
+real time: 0.000001
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+create_table 3
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files small 5
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+create_table 3
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files small 10
+real time: 0.000001
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+create_table 100
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files medium 2
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+create_table 100
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files medium 5
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+create_table 100
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files medium 10
+real time: 0.000001
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+create_table 1000
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files small 2
+real time: 0.000001
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+create_table 1000
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files large 5
+real time: 0.000003
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+create_table 1000
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files large 10
+real time: 0.000009
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+create_table 3
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files small 2
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files small 2
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+wc_files small 2
+real time: 0.000001
+ sys time: 0.000000
+user time: 0.000000
+
+read_file wc_output.txt 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000
+
+remove_block of index: 0 
+real time: 0.000000
+ sys time: 0.000000
+user time: 0.000000

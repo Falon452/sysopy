@@ -1,0 +1,75 @@
+
+./del_empty_lines ../z1-txt/1.txt 1out.txt
+real time: 0.000001
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/2.txt 2out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/3.txt 3out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/4.txt 4out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/5.txt 5out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/1.txt 1out.txt
+real time: 0.000001
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/2.txt 2out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/3.txt 3out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/4.txt 4out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/5.txt 5out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/1.txt 1out.txt
+real time: 0.000002
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/2.txt 2out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/3.txt 3out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/4.txt 4out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+./del_empty_lines ../z1-txt/5.txt 5out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000

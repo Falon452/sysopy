@@ -1,0 +1,80 @@
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000000
+sys time: 0.000000
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000001
+sys time: -0.000001
+user time: 0.000000
+
+wc_task2 a 1out.txt
+real time: 0.000001
+sys time: 0.000000
+user time: 0.000000
