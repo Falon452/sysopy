@@ -1,0 +1,11 @@
+
+fork:
+ignore  sygnaly zostaly w obu zignorowane
+handler  sygnay zostay w obu zhandlowane tak samo
+mask     sygnaly zostay zignorowane
+pending  sygnal widoczny tylko w rodzicu, natomiast przodek nie widzi oczekujacego sygnalu
+
+exec:
+ignore  sygnal w exec zostal zignorowany
+mask    sygnal zostal zignorowany
+pending sygnal jest widoczny w exec
