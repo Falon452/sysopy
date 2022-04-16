@@ -1,0 +1,9 @@
+skladnik1 = cat /etc/passwd | wc -l
+skladnik2 = ls | grep a
+skladnik3 = grep 1
+skladnik4 = cat t.txt
+skladnik5 = grep sad
+
+skladnik1 | skladnik3
+skladnik2
+skladnik4 | skladnik5
