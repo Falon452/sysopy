@@ -1,0 +1,85 @@
+INIT PID= 81168
+
+2022-04-23 02:05:28
+
+
+INIT PID= 81169
+
+2022-04-23 02:05:30
+
+
+INIT PID= 81170
+
+2022-04-23 02:05:31
+
+
+INIT PID= 81172
+
+2022-04-23 02:05:34
+
+
+LIST requested by 0
+
+2022-04-23 02:05:39
+
+
+LIST requested by 1
+
+2022-04-23 02:05:42
+
+
+LIST requested by 3
+
+2022-04-23 02:05:44
+
+
+TO_ONE from: 0 to: 2
+whats poppin
+
+2022-04-23 02:06:16
+
+
+TO_ONE from: 2 to: 0
+not much got some books?
+
+2022-04-23 02:06:36
+
+
+TO_ONE from: 0 to: 2
+20dollars for one
+
+2022-04-23 02:07:09
+
+
+STOP 2
+
+2022-04-23 02:07:19
+
+
+STOP 2
+
+2022-04-23 02:07:19
+
+
+TO_ALL from 0
+some1 wants sth
+
+2022-04-23 02:07:47
+
+
+LIST requested by 0
+
+2022-04-23 02:07:54
+
+
+STOP 0
+
+2022-04-23 02:07:58
+
+
+STOP 0
+
+2022-04-23 02:07:58
+
+
+closing
